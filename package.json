@@ -1,0 +1,26 @@
+{
+  "name": "log-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "source-map": "^0.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaviz0405/log-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beaviz0405/log-parser/issues"
+  },
+  "homepage": "https://github.com/beaviz0405/log-parser#readme",
+  "description": ""
+}
